@@ -1,4 +1,4 @@
-Bible-Chronicle
+Bible-Chronicle 圣经编年史
 ===============
 
-Bible Chronicle
+添加一些基本文件和配置文件
